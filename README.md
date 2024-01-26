@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravishka Santhush</h1>
 <h3 align="center">developer from Sri Lanka</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Ravishka+Santhush+%3C3;I'+am+a+1st+yr+Undergraduate+at+hell;I'+am+a+Software++Engineer+at+hell;Welcome+to+my+profile+bitch!">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishyi&label=Profile%20views&color=0e75b6&style=flat" alt="rishyi" /> </p>
 
