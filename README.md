@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishyi&label=Profile%20views&color=0e75b6&style=flat" alt="rishyi" /> </p>
 
-<img align="right" width=400px alt="Hacker" src="https://easi.net/sites/default/files/2021-12/ezgif.com-gif-maker.gif" />
-
 ---
 
 - 🌱 I’m currently learning **java,css,react,html**
@@ -14,6 +12,7 @@
 - 📫 How to reach me **rishwalker336@gmail.com**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img align="right" width=400px alt="Hacker" src="https://steamuserimages-a.akamaihd.net/ugc/708526305132654960/B48B2A593B7C76205C510AD1AA3200004C7D1486/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
