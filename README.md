@@ -1,5 +1,7 @@
+[![MasterHead](https://cdn.thenewstack.io/media/2022/11/fb6f0845-github-lab.jpg)] 
 <h1 align="center">Hi 👋, I'm Ravishka Santhush</h1>
 <h3 align="center">developer from Sri Lanka</h3>
+<img algin="right" alt="coding" width="400" src="https://easi.net/sites/default/files/2021-12/ezgif.com-gif-maker.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishyi&label=Profile%20views&color=0e75b6&style=flat" alt="rishyi" /> </p>
 
