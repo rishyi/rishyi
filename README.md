@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishyi&label=Profile%20views&color=0e75b6&style=flat" alt="rishyi" /> </p>
 
+<img align="right" width=400px alt="Hacker" src="https://easi.net/sites/default/files/2021-12/ezgif.com-gif-maker.gif" />
+
 ---
 
 - 🌱 I’m currently learning **java,css,react,html**
