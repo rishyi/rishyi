@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/rishyyyi" target="blank"><img src="https://img.shields.io/twitter/follow/rishyyyi?logo=twitter&style=for-the-badge" alt="rishyyyi" /></a> </p>
 
-- 🔭 I’m currently working on **airbnb**
-
-- 🌱 I’m currently learning **java,css,react,html**
-
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **rishwalker336@gmail.com**
